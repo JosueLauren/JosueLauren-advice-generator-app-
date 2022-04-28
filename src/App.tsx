@@ -1,17 +1,16 @@
-import React from 'react';
-// import logo from './logo.svg';
 import './App.css';
 
-import { Title, Wrapper } from './components/Teste'
+import {Button, Container, Advice, Paragraph } from './components/Teste'
 
 function App() {
   return (
     <div className="App">
-      <Wrapper>
-        <Title>
-          Hello World!
-        </Title>
-      </Wrapper>
+      <Container>
+        <Advice>Advice #</Advice>
+        <Paragraph>skksooksoksosoksoksoskoskoskoskoskskksooksoksosoksoksoskoskoskoskoskskksooksoksosoksoksoskoskoskoskosk</Paragraph>
+        <img src="./imgs/pattern-divider-desktop.svg" width='80%' />
+        <Button></Button>
+      </Container>
     </div>
   );
 }
