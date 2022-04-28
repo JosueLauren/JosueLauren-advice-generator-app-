@@ -8,7 +8,7 @@ function App() {
       <Container>
         <Advice>Advice #</Advice>
         <Paragraph>skksooksoksosoksoksoskoskoskoskoskskksooksoksosoksoksoskoskoskoskoskskksooksoksosoksoksoskoskoskoskosk</Paragraph>
-        <img src="./imgs/pattern-divider-desktop.svg" width='80%' />
+        <img src="./imgs/pattern-divider-desktop.svg" width='80%'/>
         <Button></Button>
       </Container>
     </div>
