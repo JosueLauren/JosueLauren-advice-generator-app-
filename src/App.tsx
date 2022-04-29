@@ -1,7 +1,7 @@
 import React from 'react'
 import './App.css';
 
-import {Button, Container, Advice, Paragraph} from './components/Teste'
+import {Button, Container, Advice, Paragraph} from './components/Content'
 interface ISlip {
   id: number | null
   advice: string
